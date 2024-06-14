@@ -1,1 +1,2 @@
 # Python
+An engineer without coding skills is like a bee that cannot produce honey. There are plenty of programming languages offering a wide range of implications. Each programming languages have pros and cons, but Python has become one of the most popular programming languages among researchers and engineers. It is simple, beautiful, and understandable for beginners. Here I have provided a brief and concise tutorial for python learners. I have covered many topics, from easy to advanced.
